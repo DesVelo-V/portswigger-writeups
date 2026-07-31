@@ -1,4 +1,4 @@
-# Reflected XSS into HTML Context with Nothing Encoded
+# Reflected XSS into HTML Context with Nothing Encoded   > **Lab URL:** https://portswigger.net/web-security/cross-site-scripting/reflected/lab-html-context-nothing-encoded
 
 ## Lab Information
 
