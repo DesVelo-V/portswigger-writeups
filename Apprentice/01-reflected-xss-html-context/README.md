@@ -1,6 +1,6 @@
 # Reflected XSS into HTML Context with Nothing Encoded   > **Lab URL:** https://portswigger.net/web-security/cross-site-scripting/reflected/lab-html-context-nothing-encoded
 
-## Lab Information
+## Lab Information - **Completed:** July 2026
 
 - **Platform:** PortSwigger Web Security Academy
 - **Category:** Cross-Site Scripting (XSS)
@@ -108,3 +108,11 @@ As a result, the browser interprets user-controlled input as executable HTML and
 - Testing HTML rendering is an important step before attempting JavaScript execution.
 - Browsers execute injected JavaScript when user input is rendered without proper output encoding.
 - Understanding the application's behavior is more valuable than memorizing payloads.
+
+---
+
+## Disclaimer
+
+This write-up was created for educational purposes using the PortSwigger Web Security Academy training platform.
+
+All testing was performed in a controlled lab environment.
