@@ -1,50 +1,72 @@
-# PortSwigger Web Security Academy Write-ups
+# CTF & Cybersecurity Write-ups
 
-Welcome to my PortSwigger Web Security Academy write-up repository.
+Welcome to my Cybersecurity Write-ups repository.
 
-This repository documents my learning journey in Web Application Security through hands-on labs provided by PortSwigger.
+This repository documents my learning journey in Cybersecurity through hands-on CTFs, security labs, challenges, and practical exercises from different platforms.
 
 ## Goals
 
-- Improve my Web Security knowledge.
-- Develop practical penetration testing skills.
-- Learn how to identify and understand common web vulnerabilities.
-- Build a public portfolio documenting my progress.
+* Improve my Cybersecurity knowledge.
+* Develop practical penetration testing and problem-solving skills.
+* Learn how to identify, understand, and exploit common security vulnerabilities.
+* Practice different areas of offensive security.
+* Build a public portfolio documenting my progress and learning journey.
 
 ## Topics
 
-- Cross-Site Scripting (XSS)
-- SQL Injection (SQLi)
-- Authentication
-- Access Control
-- CSRF
-- SSRF
-- XXE
-- File Upload
-- Command Injection
-- Path Traversal
+* Web Security
+* Network Security
+* Linux
+* Privilege Escalation
+* Authentication & Access Control
+* Cryptography
+* Digital Forensics
+* OSINT
+* Reverse Engineering
+* Binary Exploitation
+* Steganography
+* Active Directory
+* Command Injection
+* SQL Injection (SQLi)
+* Cross-Site Scripting (XSS)
+* Server-Side Request Forgery (SSRF)
+* Path Traversal
+* File Upload Vulnerabilities
+
+## Platforms
+
+* PortSwigger Web Security Academy
+* TryHackMe
+* Hack The Box
+* PicoCTF
+* CTF Competitions
+* Other Security Labs
 
 ## Repository Structure
 
-```
-Apprentice/
-Practitioner/
-Expert/
+```text
+PortSwigger/
+TryHackMe/
+HackTheBox/
+CTFs/
+Other/
 ```
 
-Each lab includes:
+Each challenge or lab may include:
 
-- Lab Information
-- Objective
-- Methodology
-- Proof of Concept
-- Root Cause
-- Impact
-- Remediation
-- What I Learned
+* Challenge Information
+* Objective
+* Methodology
+* Enumeration
+* Exploitation
+* Proof of Concept
+* Root Cause
+* Impact
+* Remediation
+* What I Learned
 
 ---
 
-📚 Platform: PortSwigger Web Security Academy
+🔐 This repository is dedicated to documenting my practical Cybersecurity learning journey.
 
-🚀 This repository will continue to grow as I complete more labs and improve my web security skills.
+🚀 It will continue to grow as I solve more CTFs, complete security labs, and develop my skills across different areas of Cybersecurity.
